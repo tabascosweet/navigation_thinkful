@@ -1,3 +1,3 @@
-# starter-joey-thinkful
+# navigation-thinkful
 
-This repo contains the starter and solution code for the Joey Thinkful resume exercise.
+This repo contains the solution code for the navigation exercise.
